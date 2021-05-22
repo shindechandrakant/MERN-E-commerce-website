@@ -1,0 +1,16 @@
+
+// component 
+import React from 'react';
+function () {
+    return (
+
+        
+
+    );
+}
+
+export default ;
+
+TODO: in update product category fetch issue
+TODO: delete product and use loading, redirect after 2 sec
+TODO: manage category
